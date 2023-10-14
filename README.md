@@ -10,4 +10,4 @@ The story start at the beginning of the semester. Chi Hang is an ordinary highsc
 This game is discontinued due to seperation of members in story wrting. :/
 
 ### Link to functionality showcase and teaser
-[Link]([https://www.renpy.org/](https://youtu.be/9WKQRLkpwcg)https://youtu.be/9WKQRLkpwcg).
+[Link](https://youtu.be/al0FWnIOlfY).
