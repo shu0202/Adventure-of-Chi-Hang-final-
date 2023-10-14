@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 376: end of line expected.
+    background "gui/overlay/main_menu.png" with dissolve
+                                           ^
+
+Ren'Py Version: Ren'Py 7.3.0.271
+Fri May 15 14:28:50 2020
